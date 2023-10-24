@@ -1,4 +1,4 @@
-﻿namespace API.Models
+﻿namespace API.ViewModels
 {
     public class Listing
     {

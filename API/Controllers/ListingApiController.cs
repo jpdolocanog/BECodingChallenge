@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
-using API.Models;
+using API.ViewModels;
 
 namespace API.Controllers
 {
